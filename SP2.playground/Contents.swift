@@ -42,3 +42,50 @@ else
     print ("I'm not so sure about coding in swift")
 }
 
+//Part 5
+//Problem 1
+
+var numberOne = 5
+var numberTwo = 15
+
+if numberOne > numberTwo
+{
+    print ("Congratulations! You win the internet!")
+}
+
+else
+{
+    print ("You need to go back to kindergarten.")
+}
+
+
+//Problem 2
+
+var alpha = "Is there an echo in here? "
+var beta = "Is there an echo in here? "
+
+if alpha == beta
+{
+    print(alpha + beta)
+}
+
+else
+{
+    print ("Quack. ")
+}
+
+
+//Problem 3
+
+var booVar1 = true
+var booVar2 = false
+
+if booVar1 == booVar2
+{
+    print ("Time for lunch! ")
+}
+
+else
+{
+    print ("No breaks for you! ")
+}
